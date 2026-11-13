@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+water_reports.db
+.env

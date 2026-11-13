@@ -1,0 +1,10 @@
+water_quality_incident_reporter/
+├── app.py                 Flask routes / REST API
+├── database.py            SQLite schema and demo handler seed data
+├── logic.py               DFA, regex, classifier, routing and dispatch
+├── requirements.txt
+├── README.md               Setup, rules, demo walkthrough and API guide
+├── templates/index.html    Responsive dashboard and forms
+├── static/style.css        Responsive styling
+├── static/app.js           Frontend API calls and dashboard rendering
+└── tests/test_logic.py     15 unit tests
